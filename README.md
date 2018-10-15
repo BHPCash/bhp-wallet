@@ -1,2 +1,2 @@
-# bhp-client
-BHPCash Client
+# bhp-wallet-gui
+BHP Wallet Gui
